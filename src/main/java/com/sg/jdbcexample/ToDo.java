@@ -6,10 +6,6 @@
 
 package com.sg.jdbcexample;
 
-/**
- *
- * @author kylerudy
- */
 public class ToDo {
     private int id;
     private String todo;
